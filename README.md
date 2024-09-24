@@ -96,13 +96,15 @@ def policy_iteration(P, gamma=0.9, theta=1e-10):
 ## OUTPUT:
 
 ## optimal policy 
-![optimal policy](1.png)
+![RL_EX3 1](https://github.com/user-attachments/assets/7bf45234-f87b-4164-b1d9-e60f93177478)
+
 
 ## optimal value function
-![optimal value function](2.png)
+![image](https://github.com/user-attachments/assets/159079ba-d10e-4a4a-8fbe-d76a820149d5)
+
 
 ## success rate for the optimal policy
-![success rate for the optimal policy](3.png)
+![Screenshot 2024-09-24 160420](https://github.com/user-attachments/assets/ef254ba6-bd0b-4a24-8b09-4a7846101d0e)
 
 
 ## RESULT:
